@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^1.1.27",
+    "@hono/zod-validator": "^0.4.3",
     "ai": "^4.1.66",
     "hono": "^4.7.5",
     "zod": "^3.24.2"
